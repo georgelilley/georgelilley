@@ -22,7 +22,7 @@ Hi! I’m George Lilley, a London-based graduate passionate about building impac
   - 🤖 Generative Musical Robot
     Built with microcontrollers using C/C++ in the Arduino IDE, exploring creative embedded systems.
 
-  - 📊 Automated Algorithmic Trading System
+  - 📊 Automated Trading System
     Custom Python application deployed on an Apache web server, processing live trading signals via webhooks and broker APIs.
 
 ---
